@@ -12,6 +12,7 @@ of files on a selected USB drive.
 
 ## How It Works:
 
+
 ## Encryption
 
 - Generates a random salt and initialization vector (IV).
